@@ -10,6 +10,9 @@ html, body {
 .text-field-input{
     Font-size: 18px;
     Color: #8D8D8D;
+    width: 100%;
+    
+   
     
 
 }
@@ -20,6 +23,8 @@ html, body {
     Border-color: #C6C6C6;
     padding: 15px;
     border-radius: 5px;
+    width: 80%;
+    margin-top: 10px;
 
 }
 
@@ -36,11 +41,25 @@ html, body {
 .box-container{
     background: #fff;
     border-radius: 5px;
-    width: 50%;
-    height: 50%;
-    text-align: center;
-   
-   
+    padding-left: 25px;
+    padding-bottom: 50px;
+    padding-top: 25px;
+    margin-left: 200px;
 }
+    
+   
+    
+   
+   
 
+
+.aditional-info {
+    
+    position: relative;
+    top: 200px;
+    right: 300px;
+    Color: #8D8D8D;
+    margin-top: 50px;
+
+}
 
