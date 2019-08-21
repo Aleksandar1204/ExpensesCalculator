@@ -1,5 +1,6 @@
 .primary-button{
     font-size: 15px;
+    font-weight: bold;
     color: #fff;
     background: #1DD1A1;
     height: 50px;
@@ -7,4 +8,27 @@
     border-radius: 5px;
     width: 92%;
     margin-top: 30px;
+    border:2px solid #1DD1A1;
+}
+
+.products-button{
+    font-size: 15px;
+    background: transparent;
+    border:2px  solid #1DD1A1;
+    Border-color: #1DD1A1;
+    color: #1DD1A1;
+    border-radius: 5px;
+    
+
+}
+
+.expenses-button{
+    font-size: 15px;
+    background: transparent;
+    border:2px ghost #576574;
+    Border-color: #576574;
+    
+    border-radius: 5px;
+    
+
 }

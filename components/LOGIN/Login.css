@@ -12,9 +12,6 @@ html, body {
     Color: #8D8D8D;
     width: 100%;
     
-   
-    
-
 }
 
 .text-field{
@@ -35,6 +32,7 @@ html, body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    flex-direction: column;
    
 }
 
@@ -44,7 +42,8 @@ html, body {
     padding-left: 25px;
     padding-bottom: 50px;
     padding-top: 25px;
-    margin-left: 200px;
+    
+    
 }
     
    
@@ -55,11 +54,17 @@ html, body {
 
 .aditional-info {
     
-    position: relative;
-    top: 200px;
-    right: 300px;
-    Color: #8D8D8D;
-    margin-top: 50px;
+    color: #8D8D8D ;
+    text-align: center;
+    width: 100%;
+    
 
 }
 
+a{
+  color: #8D8D8D ;
+}
+
+a:hover{
+    color: blue;
+}
