@@ -18,6 +18,9 @@
     Border-color: #1DD1A1;
     color: #1DD1A1;
     border-radius: 5px;
+    height: 30px;
+    padding: 0px 15px;
+    
     
 
 }
@@ -25,10 +28,71 @@
 .expenses-button{
     font-size: 15px;
     background: transparent;
-    border:2px ghost #576574;
+    border:2px solid #576574;
     Border-color: #576574;
-    
     border-radius: 5px;
+    height: 30px;
+    padding: 0px 15px;
+    
+    
     
 
 }
+
+.buttons-nav{
+    position: relative;
+    top: 40px;
+    left: 60px;
+
+}
+
+.text-field-input{
+    Font-size: 18px;
+    Color: #8D8D8D;
+    width: 100%;
+    
+
+}
+
+.text-field{
+    background: #fff;
+    Border: 2px solid;
+    Border-color: #C6C6C6;
+    padding: 15px;
+    border-radius: 5px;
+    width: 80%;
+    margin-top: 10px;
+    
+
+}
+
+
+
+.box-container{
+    background: #fff;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-bottom: 50px;
+    padding-top: 25px;
+    
+}
+    
+    
+   
+.aditional-info {
+    
+    color: #8D8D8D ;
+    text-align: center;
+    width: 100%;
+    
+}
+
+a{
+    color: #8D8D8D ;
+  }
+
+  a:hover{
+      color: blue;
+  }
+
+ 
